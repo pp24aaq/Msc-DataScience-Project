@@ -84,7 +84,7 @@ Logistic Regression performs best with strong precision and recall.
 Decision Tree performs well but is slightly sensitive to feature patterns.
 Hybrid features significantly improve classification compared to text-only models.
 
-# Further steps done 
+#Further steps Done 
 Implemented "hybrid feature engineering" combining TF-IDF, readability metrics, word counts, and sentiment features.
 Optimised "Logistic Regression" and constrained "Decision Tree" to reduce overfitting.
 Evaluated models using accuracy, precision, recall, F1-score, and confusion matrices.
@@ -96,15 +96,13 @@ Naive Bayes
 Logistic Regression  
 Decision Tree  
 
-# Tools & Libraries
+#Tools & Libraries
 Python, Pandas, NumPy, Scikit-learn, NLTK/VADER, Matplotlib, Seaborn
 
 #Conclusion
 Hybrid feature-based "Logistic Regression" provides the most reliable and interpretable solution for fake news detection.
 
----
-
-# work Done By
+#work Done By
 Poojitha Pulugundla
 MSc Data Science | University of Hertfordshire
 
