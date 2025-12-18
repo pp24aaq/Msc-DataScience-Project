@@ -100,7 +100,7 @@ Decision Tree
 Python, Pandas, NumPy, Scikit-learn, NLTK/VADER, Matplotlib, Seaborn
 
 #Conclusion
-Hybrid feature-based **Logistic Regression** provides the most reliable and interpretable solution for fake news detection.
+Hybrid feature-based "Logistic Regression" provides the most reliable and interpretable solution for fake news detection.
 
 ---
 
